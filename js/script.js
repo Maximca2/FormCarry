@@ -47,7 +47,7 @@ window.addEventListener('DOMContentLoaded', (e) => {
     const form = document.querySelector('form');
     const message = {
         loading: 'найс',
-        success: 'Спасибо! Скоро мы с вами свяжемся',
+        success: 'Дякую ми скоро звяжемось з вами!',
         failure: 'Щось пішло не так'
     };
     function postData(form) {
